@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_API_DragonBallSuper/static/css/main.32b6c53f.css",
+    "main.js": "/React_API_DragonBallSuper/static/js/main.ee041c86.js",
+    "index.html": "/React_API_DragonBallSuper/index.html",
+    "main.32b6c53f.css.map": "/React_API_DragonBallSuper/static/css/main.32b6c53f.css.map",
+    "main.ee041c86.js.map": "/React_API_DragonBallSuper/static/js/main.ee041c86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32b6c53f.css",
+    "static/js/main.ee041c86.js"
+  ]
+}
